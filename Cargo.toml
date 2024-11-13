@@ -1,0 +1,9 @@
+[package]
+name = "toy-async-runtime"
+version = "0.1.0"
+authors = [ "murphysean84@gmail.com" ]
+edition = "2021"
+description = "A quick demo of a single threaded async runtime"
+
+[dependencies]
+futures = "0.3"
